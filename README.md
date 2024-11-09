@@ -1,6 +1,8 @@
 # 🌟 Anonymous Chat App Template with Socket.IO & Next.js
 
-A modern, real-time anonymous chat application template built with Next.js 13+, Socket.IO, and TailwindCSS. This template provides a secure and seamless way to create chat rooms without requiring user registration.
+> note: Don`t deploy anywhere, just for fun.
+> if you want to deploy, put this on vps because hosting platform like vercel, etc. Only support >serverless
+> A modern, real-time anonymous chat application template built with Next.js 13+, Socket.IO, and TailwindCSS. This template provides a secure and seamless way to create chat rooms without requiring user registration.
 
 ![Anonymous Chat Banner](https://via.placeholder.com/800x400)
 
@@ -35,7 +37,7 @@ A modern, real-time anonymous chat application template built with Next.js 13+, 
 1. **Clone the repository**
 
 ```bash
-git clone https://your-repository-url/anonymous-chat.git
+git clone https://github.com/KbDevs12/anonymous-chat-template.git
 cd anonymous-chat
 ```
 
