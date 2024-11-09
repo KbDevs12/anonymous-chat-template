@@ -1,0 +1,12 @@
+{
+  "common": {
+    
+      "welcome": "Welcome to the Chat App",
+      "enter_room": "Enter the room name to start chatting",
+      "join_room": "Join Room",
+      "room": "Room",
+      "send_message": "Send Message",
+      "type_message": "Type a message..."
+    
+  }
+}

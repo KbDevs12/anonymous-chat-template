@@ -1,0 +1,10 @@
+{
+  "common": {
+    "welcome": "Selamat Datang di Aplikasi Chat",
+    "enter_room": "Masukkan nama room untuk memulai percakapan",
+    "join_room": "Masuk Room",
+    "room": "Room",
+    "send_message": "Kirim Pesan",
+    "type_message": "Ketik pesan..."
+  }
+}
